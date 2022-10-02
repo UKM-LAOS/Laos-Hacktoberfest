@@ -1,2 +1,1 @@
-# Laos-Hacktoberfest
-Hacktoberfest
+# LAOS-Hacktoberfest
